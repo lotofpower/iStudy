@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DatabaseUtil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/DatabaseUtil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
